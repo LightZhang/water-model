@@ -1,0 +1,55 @@
+[
+
+  {
+    "key": "节点",
+    "name": "节点压力(m)",
+    "lables": [{
+        "color": "#2E338C",
+        "name": "0~28",
+        "className": "bgColorbox fillet"
+      },
+      {
+
+        "color": "#168B16",
+        "name": "28~40",
+        "className": "bgColorbox fillet"
+      },
+      {
+        "color": "#FF7F00",
+        "name": ">40",
+        "className": "bgColorbox fillet"
+      }
+    ]
+  },
+
+  {
+    "key": "管道",
+    "name": "管道流速(m/s)",
+    "lables": [{
+        "color": "#373B91",
+        "name": "0~0.6",
+        "className": "bgColorbox waterLine"
+      },
+      {
+
+        "color": "#3AA333",
+        "name": "0.6~0.9",
+        "className": "bgColorbox waterLine"
+      },
+      {
+        "color": "#FF9022",
+        "name": "0.9~1.2",
+        "className": "bgColorbox waterLine"
+      },
+      {
+        "color": "#F4565B",
+        "name": ">1.2",
+        "className": "bgColorbox waterLine"
+      }
+    ]
+  }
+
+
+
+
+]

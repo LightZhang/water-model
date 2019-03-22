@@ -72,7 +72,7 @@ export default {
         target: 'city_map2',
         minZoom: 13,
         center: ol.proj.transform([115.7493281, 33.83495194], 'EPSG:4326', 'EPSG:3857'),
-        zoom: 13
+        zoom: 15
       });
 
       waterFlowMove.init(_this.map);

@@ -16,4 +16,4 @@ npm run build
 ```
 
 ## 效果如图
-![image](https://github.com/LightZhang/water-model/sl.png)
+![image](https://github.com/LightZhang/water-model/blob/master/sl.png)
